@@ -1,2 +1,2 @@
-# my-portfolio
+# ericg.ai-portofolio
 Professional Website
